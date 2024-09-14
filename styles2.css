@@ -512,5 +512,43 @@ background-color: #dde9f6; /* Lighten background */
 }
 }
 
+/* Typewriter container */
+.typewriter p {  
+    border-right: 4px solid black;  /* Cursor effect */
+    white-space: nowrap;  /* Prevent text from wrapping */
+    overflow: hidden;  /* Hide overflowing text */
+    display: block;  /* Keep cursor next to the text */
+    animation: typing 4s steps(20, end) infinite, blink-caret 0.75s step-end infinite;
+    color: #117cb3;
+    
+    text-align: center;
+    font-size: 30px;
+  }
+  
+  /* Typing effect with fixed width */
+  @keyframes typing {
+      0% {
+          width: 0ch;  /* Start with hidden text */
+        }
+        70% {
+          width: 15ch;  /* Text fully revealed */
+        }
+        85% {
+          width: 16ch;  /* Pause to show full text */
+        }
+        100% {
+          width: 16ch;  /* Hide the text again */
+        }
+  }
+  
+  /* Blinking cursor effect */
+  @keyframes blink-caret {
+    from, to {
+      border-color: transparent;
+    }
+    50% {
+      border-color: black;
+    }
+  }
 
 
