@@ -114,7 +114,7 @@
 
 #greeting, #typewriter {
     font-size: 1.5em;
-    color: #0eac03;
+    color: #13e004;
     margin: 5px 0;
 }
 
@@ -177,5 +177,5 @@
 
 /* Shadow effect for all text in the header */
 .hero h1, .hero p {
-    text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.7); /* Add shadow effect to text */
+    text-shadow: 2px 2px 12px rgba(27, 22, 22, 0.762); /* Add shadow effect to text */
 }
