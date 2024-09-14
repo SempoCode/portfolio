@@ -4,7 +4,7 @@
 Hi! I'm **Ssempebwa Paul**, a passionate AI enthusiast and web developer. I love creating innovative solutions and exploring the vast world of technology.
 
 ## 🎓 Educational Background
-I hold a degree in **Computer Engineering**. You can learn more about my academic journey and experiences by [downloading my CV](resume-ssempebwa paul.pdf).
+I hold a degree in **Computer Engineering**. You can learn more about my academic journey and experiences by [downloading my CV](https://github.com/SempoCode/portfolio/blob/main/resume-ssempebwa%20paul.pdf).
 
 ## 💡 Interests
 - **Web Development**: I enjoy building responsive and user-friendly websites using modern technologies.
