@@ -20,5 +20,5 @@ I hold a degree in **Computer Engineering**. You can learn more about my academi
 - [Personal Portfolio Website](https://sempocode.github.io/portfolio/): A fully responsive portfolio site showcasing my skills, projects, and contact information.
 
 ## 📬 Contact Me
-Feel free to reach out if you'd like to collaborate or discuss tech-related ideas. [Contact Form](link-to-your-contact-form)
+Feel free to reach out if you'd like to collaborate or discuss tech-related ideas. [Contact Form](https://github.com/SempoCode/portfolio/blob/main/index#contact)
 
